@@ -1,3 +1,10 @@
+// Program berikut berisikan jawaban dari soal di bawah:
+
+// Ali pergi dari Kota A ke Kota B dengan kecepatan 60km/jam. 
+// Sedangkan Budi pergi dari Kota A ke Kota B dengan kecepatan 90km/jam. 
+// Jika Budi pergi 30 menit setelah Ali pergi, 
+// berapa lama waktu yang dibutuhkan Budi untuk dapat menyusul Ali?"
+
 public class BudiMenyusulAli {
     public static int budiMenyusulAli(int delayTime, int kecepatanAliperJam, int kecepatanBudiperJam){
 
